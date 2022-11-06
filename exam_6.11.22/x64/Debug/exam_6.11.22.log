@@ -1,0 +1,8 @@
+﻿  exam_6.11.22.c
+  q2.c
+  q3.c
+C:\Users\User\source\repos\exam_6.11.22\q3.c(77,29): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\exam_6.11.22\q3.c(60,20): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+C:\Users\User\source\repos\exam_6.11.22\exam_6.11.22.c(25): warning C4716: 'main_1': must return a value
+  exam_6.11.22.vcxproj -> C:\Users\User\source\repos\exam_6.11.22\x64\Debug\exam_6.11.22.exe
